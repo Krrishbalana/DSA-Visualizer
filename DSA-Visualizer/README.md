@@ -2,7 +2,7 @@
 <div align="center">
   <h2 align="center">DSA Visualizer</h2>
   <p align="center">
-    An interactive Data Structures and Algorithms visualizer built using React, Framer Motion, and Tailwind CSS.
+    this An interactive Data Structures and Algorithms visualizer built using React, Framer Motion, and Tailwind CSS.
     <br />
     <br />
     <a href="https://github.com/Krrishbalana/DSA-Visualizer/issues">Report Bug</a>
